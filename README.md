@@ -31,7 +31,7 @@
 
 - Seu nome tem Silva?
 
-```O código identifica se tem a palavra "Silva" no que você digitar  ```
+```O código identifica se tem a palavra "Silva" no que você digitar ```
 
 ![image](https://github.com/BigBraim/exercicio-11-08/assets/79224234/6d009b51-0866-4013-92c6-5801c36f6fee)
 
